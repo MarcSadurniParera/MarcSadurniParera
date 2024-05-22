@@ -1,16 +1,30 @@
-## Hi there 👋
+## Welcome to my personal profile! ##
 
-<!--
-**MarcSadurniParera/MarcSadurniParera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I am [Marc Sadurní](https://www.linkedin.com/in/marcsadurní/), a PhD researcher in Physics of Complex Systems at Universitat de Barcelona Institute of Complex Systems (UBICS). My research involves exploring agent-based models, stochastic processes, and continuous-time random walks formalisms to raise new mathematical formulations addressing issues related to inequalities, segregation, mobility, and welfare in cities. This endeavor is closely tied to leveraging statistical physics tools and approaches, such as those associated with phase transitions. Additionally, I am also a visiting research scientist at the Complexity Science Hub Vienna (CSH) and a member of the Computational Social Science and Network Inequality group. My research interests in the CSH have focused on investigating social geographic segregation patterns among diverse migrant populations in Vienna through the application of complex networks, clustering and stochastic algorithms driven by real datasets to enhance comprehension of cultural homophily and income disparities in urban areas.
 
-Here are some ideas to get you started:
+Creative, cooperative, kind, and active person with eager to progress in the work and research world. Interested in analytical and especially in numerical analysis of models and data in many fields such as Complex Systems, Data Science, Machine Learning, Social Dynamics, Neuro‑inspired Computing, Quantum Computing, Computational Physics, Meteorology and Geophysics. Experienced in computational physics and interdisciplinary applications of statistical physics (modelling of biological, social, economic and physical systems). I like the excitement of constantly tackling new (complex) problems and to find innovative solutions. Looking forward to developing a scientific career. Love programming, solving problems and modelling any kind of system. Always caring about rigor, innovation and creativity.
 
-- 🔭 I’m currently working on ...
+**Contact**
+
+:envelope_with_arrow:  &nbsp; &nbsp;  marc.sadurni@ub.edu
+
+<img align="left" alt="Marc Sadurní" width="22px" src="https://github.com/MarcSadurniParera/MarcSadurniParera/blob/main/Logos/LinkedIn.png" /> [Marc Sadurní](https://www.linkedin.com/in/marcsadurní/)
+
+<img align="left" alt="Orcid Id" width="22px" src="https://github.com/MarcSadurniParera/MarcSadurniParera/blob/main/Logos/ORCID_iD.png" /> [Marc Sadurní](https://orcid.org/0000-0002-9870-5513)
+
+**Main programming languages:**
+
+<img align="left" alt="Fortran" width="22px" src="https://github.com/MarcSadurniParera/MarcSadurniParera/blob/main/Logos/Fortran.png" />
+<img align="left" alt="Python" width="22px" src="https://github.com/MarcSadurniParera/MarcSadurniParera/blob/main/Logos/python.jpg" />
+<img align="left" alt="gnuplot" width="22px" src="https://github.com/MarcSadurniParera/MarcSadurniParera/blob/main/Logos/gnuplot.png" />
+
+<!---
+- 👋 Hi, I’m @ocabanas
+- 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+ocabanas/ocabanas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
