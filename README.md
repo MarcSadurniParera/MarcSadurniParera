@@ -10,7 +10,7 @@ Creative, cooperative, kind, and active person with eager to progress in the wor
 
 <img align="left" alt="Marc Sadurní" width="22px" src="https://github.com/MarcSadurniParera/MarcSadurniParera/blob/main/Logos/LinkedIn.png" /> [Marc Sadurní](https://www.linkedin.com/in/marcsadurní/)
 
-<img align="left" alt="Orcid Id" width="22px" src="https://github.com/MarcSadurniParera/MarcSadurniParera/blob/main/Logos/ORCID_iD.png" /> [Marc Sadurní](https://orcid.org/0000-0002-9870-5513)
+<img align="left" alt="Orcid Id" width="22px" src="https://github.com/MarcSadurniParera/MarcSadurniParera/blob/main/Logos/ORCID_iD.png" /> [Orcid Id](https://orcid.org/0000-0002-9870-5513)
 
 **Main programming languages:**
 
