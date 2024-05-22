@@ -12,9 +12,11 @@ Hi, I am [Marc Sadurní](https://www.linkedin.com/in/marcsadurní/), a PhD resea
 
 **Main programming languages:**
 
-<img align="left" alt="Fortran" width="22px" src="https://github.com/MarcSadurniParera/MarcSadurniParera/blob/main/Logos/Fortran.png" />
-<img align="left" alt="Python" width="22px" src="https://github.com/MarcSadurniParera/MarcSadurniParera/blob/main/Logos/python.jpg" />
-<img align="left" alt="gnuplot" width="22px" src="https://github.com/MarcSadurniParera/MarcSadurniParera/blob/main/Logos/gnuplot.png" />
+<img align="left" alt="Fortran" width="22px" src="https://github.com/MarcSadurniParera/MarcSadurniParera/blob/main/Logos/Fortran.png" />Fortran
+
+<img align="left" alt="Python" width="22px" src="https://github.com/MarcSadurniParera/MarcSadurniParera/blob/main/Logos/python.jpg" />Python
+
+<img align="left" alt="gnuplot" width="22px" src="https://github.com/MarcSadurniParera/MarcSadurniParera/blob/main/Logos/gnuplot.png" />Gnuplot
 
 <!---
 - 👋 Hi, I’m @ocabanas
